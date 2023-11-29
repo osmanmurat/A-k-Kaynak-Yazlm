@@ -1,1 +1,1 @@
-02210201213 numaralı ve Osman MURAT isimli öğrencinizinin ilk reposu :)
+02210201213 numaralı ve Osman MURAT isimli öğrencinin ilk reposu :)
