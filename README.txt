@@ -1,1 +1,1 @@
-02210201213 numaralı ve Osman MURAT isimli öğrencinin ilk reposu :)
+API'a girilen İsim ve Soyisim, API tarafında SQL kullarak öğrenci numarası döndürülmesi
